@@ -1,6 +1,11 @@
 title: Pragathi Ravindranath
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: 
+  <p align="center">
+  <br>   
+  I'm working as a Data Scientist 
+  <br>
+  </p>
+
+show_downloads: false
 theme: jekyll-theme-minimal
